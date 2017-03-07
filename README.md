@@ -3,7 +3,7 @@
 
 <h2>Before to use the plugin</h2>
 <p>Before to go further be sure you have an Instagram account and an Instagram API Key.</p>
-<p>for access token please visit this site <a href="https://smashballoon.com/updating-your-instagram-access-token/"> access token</a> and  . <a href="https://smashballoon.com/instagram-feed/find-instagram-user-id/"> for user id </a> </p>
+<p>for access token please visit this site <a href="http://instagram.pixelunion.net/"> access token</a> and for   <a href="https://smashballoon.com/instagram-feed/find-instagram-user-id/">  user id </a> </p>
 
 
 
