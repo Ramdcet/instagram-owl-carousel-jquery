@@ -4,7 +4,7 @@
     var pluginName = 'instastream',
         document = window.document,
         defaults = {
-            instaUser: '4526026830',
+            instaUser: '532665487',
             instaResults: 3,
             instaMenu: 'false'
         };
