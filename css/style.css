@@ -1,0 +1,29 @@
+#sync1 .item {
+  color: #FFF;
+  text-align: center;
+}
+
+.owl-theme .owl-nav [class*='owl-'] {
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+.owl-theme .owl-nav [class*='owl-'].disabled:hover {
+  background-color: #D6D6D6;
+}
+#sync1.owl-theme {
+  position: relative;
+}
+#sync1.owl-theme .owl-next,
+#sync1.owl-theme .owl-prev {
+  width: 22px;
+  height: 40px;
+  margin-top: -20px;
+  position: absolute;
+  top: 46%;
+}
+#sync1.owl-theme .owl-prev {
+  left: 10px;
+}
+#sync1.owl-theme .owl-next {
+  right: 10px;
+}
