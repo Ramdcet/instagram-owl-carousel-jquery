@@ -1,7 +1,7 @@
 jQuery(document).ready(function ($) {
   $('body').instastream({
-		instaToken: '4526026830.1677ed0.02e1ac7cc0c24bc6ad2962b5b8192d43',
-		instaUser: '4526026830',
+		instaToken: '532665487.1677ed0.8028228d5ba34a1b9cdb5e2ead4d315e',
+		instaUser: '532665487',
 		instaResults: 18,
 		instaMenu: 'yes'
 	});	
